@@ -1,2 +1,0 @@
-# TaskEveryday
-JS Webapp
